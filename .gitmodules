@@ -1,3 +1,6 @@
 [submodule "computer-shop-management-system"]
 	path = computer-shop-management-system
 	url = https://github.com/Tharindu-Gimhana/computer-shop-management-system.git
+[submodule "computer-shop-management-system-front-end"]
+	path = computer-shop-management-system-front-end
+	url = https://github.com/Tharindu-Gimhana/computer-shop-management-system-front-end.git
