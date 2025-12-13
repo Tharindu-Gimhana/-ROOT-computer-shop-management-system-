@@ -1,7 +1,7 @@
 # Full-Stack Web Application
 
--This is a full-stack web application.
--The project is structured using **Git submodules** to keep frontend and backend concerns cleanly separated while still presenting the project under a single parent repository.
+- This is a full-stack web application.
+- The project is structured using **Git submodules** to keep frontend and backend concerns cleanly separated while still presenting the project under a single parent repository.
 
 ---
 
